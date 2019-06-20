@@ -1,0 +1,1 @@
+This code takes the prices from the coindesk API and returns the value of bitcoin in GBP, EUROS AND US DOLLARS.
